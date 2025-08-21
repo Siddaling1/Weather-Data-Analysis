@@ -21,3 +21,7 @@ Identify extreme weather events such as heatwaves, heavy rain, and storms.
 # Dashbord/Report
 
 <a href ="https://github.com/Siddaling1/Weather-Data-Analysis/blob/main/Weather%20Report.pbix">Dashboard</a>
+
+# Screenshot 
+![Dashboard Screenshot](https://github.com/Siddaling1/Weather-Data-Analysis/blob/main/Weather%20Screenshot.png)
+
