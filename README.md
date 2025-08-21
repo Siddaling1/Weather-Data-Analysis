@@ -12,3 +12,8 @@ Study the relationship between humidity, rainfall, wind speed, and pressure.
 Categorize weather conditions (Sunny, Cloudy, Rainy, Stormy).
 
 Identify extreme weather events such as heatwaves, heavy rain, and storms.
+
+## Tools Used  
+**Python**  – Data cleaning, analysis, visualization  
+**Excel** – Quick data exploration  
+**Power BI** – Interactive dashboard  
